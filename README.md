@@ -34,4 +34,4 @@ Welcome to my GitHub! I'm currently learning about **Git** and **GitHub**, focus
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting! 😊👍🏻
